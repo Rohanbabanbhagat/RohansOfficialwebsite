@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\OfficialRohan01\\OfficialRohan01",
+    "\\OfficialRohan01\\OfficialRohan01\\bin",
+    "\\OfficialRohan01\\OfficialRohan01\\bin\\Debug",
+    "\\OfficialRohan01\\OfficialRohan01\\bin\\Debug\\netcoreapp2.2",
+    "\\OfficialRohan01\\OfficialRohan01\\obj"
   ],
   "PreviewInSolutionExplorer": false
 }
